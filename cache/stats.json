@@ -1,19 +1,194 @@
 {
  "loc": {
+  "FarzaneEzzati/ChvatalGomory-DRL": {
+   "add": 100875,
+   "del": 275992,
+   "head": "299c8226d2caa3f07ec118a08dec115766518b56"
+  },
+  "FarzaneEzzati/DRCG": {
+   "add": 180,
+   "del": 0,
+   "head": "a1667045f0116999a8300cb5422afbcdd64f0e15"
+  },
+  "YihanZhouBU/HVRPSDMC": {
+   "add": 0,
+   "del": 0,
+   "head": "71e3210e6c0eb53a71c07b2c1ecbba6050b62cd4"
+  },
+  "YihanZhouBU/Paper-2": {
+   "add": 24,
+   "del": 6,
+   "head": "6c447c6e1006ee84480089ac44a00f04850c59bb"
+  },
+  "allyn-loyd/bilevel-MDRP": {
+   "add": 0,
+   "del": 0,
+   "head": "cb931b91a721b80eea0d75d2a05898af4cca735a"
+  },
+  "rezamirjaliliphd/Advanced-Machine-Learning--IBM": {
+   "add": 0,
+   "del": 0,
+   "head": "ffc45d07a1eb67a45419d48027994d2422be6503"
+  },
+  "rezamirjaliliphd/Benchmark": {
+   "add": 22925,
+   "del": 0,
+   "head": "98582e03e3423316827b3bdf9bd3405cdb598635"
+  },
+  "rezamirjaliliphd/Benders": {
+   "add": 928799,
+   "del": 19282,
+   "head": "adcebd7bb3f3e197e045092526fec9a89b7ac96b"
+  },
+  "rezamirjaliliphd/C-learning": {
+   "add": 850,
+   "del": 16,
+   "head": "e4c4e104fc9de3e679671ba6d14f8576211d2baa"
+  },
+  "rezamirjaliliphd/CGBenders": {
+   "add": 34942,
+   "del": 61,
+   "head": "929f74e01ab171a4de8df79ea273a80bba30341a"
+  },
   "rezamirjaliliphd/CGS-DRL": {
    "add": 741,
    "del": 0,
    "head": "4cc3b99553d7e9cd3eaf440d8cecd10e354c46e0"
+  },
+  "rezamirjaliliphd/DRCG": {
+   "add": 180,
+   "del": 0,
+   "head": "a1667045f0116999a8300cb5422afbcdd64f0e15"
+  },
+  "rezamirjaliliphd/DroneJourney": {
+   "add": 20090,
+   "del": 0,
+   "head": "710d3c9f97dba69335aa7a676d7bfe3c9c946178"
+  },
+  "rezamirjaliliphd/ESPPRC": {
+   "add": 48668,
+   "del": 17763,
+   "head": "32477aede39fe04bc6298a607b673dec49b13384"
+  },
+  "rezamirjaliliphd/ESPPRC_Numpy": {
+   "add": 5274,
+   "del": 1550,
+   "head": "76c771d66cfb9384b59aa63bac8bb9be7b0ae0f8"
   },
   "rezamirjaliliphd/FSNet": {
    "add": 0,
    "del": 0,
    "head": "911fcb2fdfa7488ac245ef9de535acc2a250915f"
   },
+  "rezamirjaliliphd/HPE-Report": {
+   "add": 70647,
+   "del": 1064,
+   "head": "6d9ceb05e55a3733faa1e217c927dd0ec0191f72"
+  },
+  "rezamirjaliliphd/MDRNTW": {
+   "add": 9285,
+   "del": 1495,
+   "head": "b93ff8ced4e163ec79684030ab74a6041fa5c7ee"
+  },
+  "rezamirjaliliphd/MDRNTW-Paper": {
+   "add": 30730,
+   "del": 2344,
+   "head": "a6d094f9b6d1f3dbae4c0bed13e97fc93706ec0f"
+  },
+  "rezamirjaliliphd/MDRP-DJ": {
+   "add": 15783,
+   "del": 4107,
+   "head": "fc49d7864ca666fe0706a5543931c4ad24c53e93"
+  },
+  "rezamirjaliliphd/MODESPPRC": {
+   "add": 40967,
+   "del": 12125,
+   "head": "5691ee3416a524acf155175737cd114d53829947"
+  },
+  "rezamirjaliliphd/MSDR": {
+   "add": 39078,
+   "del": 23145,
+   "head": "1ec66e87178ea1a4b845e18060ff6dbccc5e62a4"
+  },
+  "rezamirjaliliphd/MyLifeProject": {
+   "add": 0,
+   "del": 0,
+   "head": "3e33577fff41dd1f9358bd0821def97cd4325ce4"
+  },
   "rezamirjaliliphd/Q_learning_shortest_path": {
    "add": 5623,
    "del": 2,
    "head": "105e8ed667837943b59ee088c11300437ff8c179"
+  },
+  "rezamirjaliliphd/RBM": {
+   "add": 3197,
+   "del": 640,
+   "head": "fbdf05f42abe16d28aaa96488174bf14fd27fa71"
+  },
+  "rezamirjaliliphd/Rank1-GNNRL-Code": {
+   "add": 10896592,
+   "del": 319181,
+   "head": "0629ed378fdc0920cd4a14ebf8ddb4baa2e05119"
+  },
+  "rezamirjaliliphd/Rank1-GNNRL-Paper": {
+   "add": 14645,
+   "del": 11117,
+   "head": "896b321450857762a66645cd21d8f64b039fdc44"
+  },
+  "rezamirjaliliphd/Resource-based-method": {
+   "add": 6188,
+   "del": 36,
+   "head": "a34e35b8c960ec37ec418c601da3e3ac58a83f39"
+  },
+  "rezamirjaliliphd/Reza-Mirjalili-Resume": {
+   "add": 7900,
+   "del": 335,
+   "head": "ecf14e1bdcb4541e07efcadacfc8de5705ca7d08"
+  },
+  "rezamirjaliliphd/Reza-Mirjalili-academic-CV": {
+   "add": 15576,
+   "del": 1367,
+   "head": "27b7ec931cfbdbbebfc68e74dc51f31a120a7f7d"
+  },
+  "rezamirjaliliphd/SPSchedule": {
+   "add": 2268,
+   "del": 0,
+   "head": "5584ee5547cf7fea9f20fa2a118eee507bc29f24"
+  },
+  "rezamirjaliliphd/SVDRP-MODESPPRC-Paper": {
+   "add": 145653,
+   "del": 89772,
+   "head": "ec08fe369c9a7f74f656baf3af7b6e97daa63f56"
+  },
+  "rezamirjaliliphd/SVDRP-Paper": {
+   "add": 74869,
+   "del": 31335,
+   "head": "39fe66d99f2e5f3a724e12800322925d56068381"
+  },
+  "rezamirjaliliphd/SmoothFloorFunction": {
+   "add": 416284,
+   "del": 15874,
+   "head": "2807a50e51d5fb35fb8a0ca448c792753c83f87f"
+  },
+  "rezamirjaliliphd/SteepEdgeCG4VRP": {
+   "add": 11455,
+   "del": 1736,
+   "head": "2ccf32d0f747a4a931cad2412b1cac7255f94fd0"
+  },
+  "rezamirjaliliphd/StochasticFacilityLocation": {
+   "add": 592900,
+   "del": 1108,
+   "head": "90979078626c8c4c9e4bd5ed4e98e56aff1cb488"
+  },
+  "rezamirjaliliphd/TDRP-Benders-Paper": {
+   "add": 2162,
+   "del": 314,
+   "head": "fc2221357cb089d39be28b6bcca7319c839ed1ed"
+  },
+  "rezamirjaliliphd/Thesis": {
+   "add": 28075,
+   "del": 10984,
+   "head": "a13fb7110f6911c19e3eb10d9054309d37cf7c69"
   },
   "rezamirjaliliphd/cnn-optuna-cifar10": {
    "add": 1796,
@@ -33,12 +208,17 @@
   "rezamirjaliliphd/rezamirjaliliphd": {
    "add": 697,
    "del": 0,
-   "head": "1d8094f7cbf79cd4215942292e827b33f7eb6408"
+   "head": "9f52facdc0e913a5d3a7fc5fa6e317497e3f0fcb"
   },
   "rezamirjaliliphd/rezamirjaliliphd.github.io": {
    "add": 89238,
    "del": 7522,
    "head": "42b0f9c6948a8279a3175f1323e323398635b068"
+  },
+  "rezamirjaliliphd/smooth-floor-function-Paper": {
+   "add": 1780,
+   "del": 0,
+   "head": "0368c6fb09a643e584489532d1ab7677267d89d7"
   },
   "rezamirjaliliphd/t5-translation-opus": {
    "add": 6408,
@@ -47,12 +227,12 @@
   }
  },
  "stats": {
-  "commits": 55,
-  "contributed": 9,
+  "commits": 1197,
+  "contributed": 50,
   "followers": 2,
-  "loc_add": 108393,
-  "loc_del": 7527,
-  "repos": 9,
-  "stars": 0
+  "loc_add": 13697234,
+  "loc_del": 850276,
+  "repos": 45,
+  "stars": 5
  }
 }
