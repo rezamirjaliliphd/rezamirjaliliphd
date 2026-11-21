@@ -216,9 +216,9 @@
    "head": "ba84f139b8d5fa74392d9e295895d11e5e1fa863"
   },
   "rezamirjaliliphd/rezamirjaliliphd": {
-   "add": 714,
-   "del": 4,
-   "head": "ad8d0dae1963c5ebcf1cd6df913a886bbcb8e615"
+   "add": 716,
+   "del": 6,
+   "head": "5c43ac78d12db853141b083bf7a7e49f27567902"
   },
   "rezamirjaliliphd/rezamirjaliliphd.github.io": {
    "add": 90868,
@@ -237,11 +237,11 @@
   }
  },
  "stats": {
-  "commits": 1294,
+  "commits": 1295,
   "contributed": 50,
   "followers": 2,
-  "loc_add": 54465568,
-  "loc_del": 5210459,
+  "loc_add": 54465570,
+  "loc_del": 5210461,
   "repos": 45,
   "stars": 5
  }
