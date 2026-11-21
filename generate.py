@@ -9,6 +9,7 @@ without a token the script reuses the numbers in cache/stats.json, or zeros.
     python generate.py --offline  # build from cached stats only
 """
 
+import copy
 import datetime as dt
 import json
 import os
@@ -314,10 +315,18 @@ def main():
 
     if not offline and token and user:
         print(f"Fetching stats for {user} …")
-        stats = fetch_stats(user, token, cache)
-        cache["stats"] = stats
-        cache_path.parent.mkdir(exist_ok=True)
-        cache_path.write_text(json.dumps(cache, indent=1, sort_keys=True))
+        try:
+            # Work on a copy so a failure part-way through leaves the cache untouched.
+            fresh = copy.deepcopy(cache)
+            stats = fetch_stats(user, token, fresh)
+        except Exception as exc:  # HTTPError (e.g. 401 Bad credentials), timeout, GraphQL errors, …
+            print(f"::warning::Live stats fetch failed ({type(exc).__name__}: {exc}); "
+                  "using cached stats from cache/stats.json.")
+        else:
+            cache = fresh
+            cache["stats"] = stats
+            cache_path.parent.mkdir(exist_ok=True)
+            cache_path.write_text(json.dumps(cache, indent=1, sort_keys=True))
     elif not offline:
         print("ACCESS_TOKEN / USER_NAME not set — using cached stats.")
 
