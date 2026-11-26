@@ -176,9 +176,9 @@
    "head": "f4a6ef3d375060d53d7f28ec3715dbdc7220e563"
   },
   "rezamirjaliliphd/SmoothFloorFunction": {
-   "add": 689656,
-   "del": 16077,
-   "head": "604480b96fc6f8273ea4d8a7f68d219fd9d554f4"
+   "add": 726593,
+   "del": 17354,
+   "head": "d0fee44b598fa45efe2d6358f2cc332fa37b21be"
   },
   "rezamirjaliliphd/SteepEdgeCG4VRP": {
    "add": 11455,
@@ -205,6 +205,11 @@
    "del": 1,
    "head": "36a4bddaaecc0934c2da6d06ac60ee761887a1e2"
   },
+  "rezamirjaliliphd/delayed-floor-cg-closures": {
+   "add": 2729,
+   "del": 0,
+   "head": "e0629f2e5b8cc7405bf3d3275af9abeb0dc8069c"
+  },
   "rezamirjaliliphd/espprc-gnn-rl": {
    "add": 2512,
    "del": 0,
@@ -218,7 +223,7 @@
   "rezamirjaliliphd/rezamirjaliliphd": {
    "add": 716,
    "del": 6,
-   "head": "e8de3d88b8bc3abe9d5ba9f33b3c337570cd1426"
+   "head": "a7ed8fec199465074e80585adc66bb2549991de4"
   },
   "rezamirjaliliphd/rezamirjaliliphd.github.io": {
    "add": 90927,
@@ -237,12 +242,12 @@
   }
  },
  "stats": {
-  "commits": 1296,
-  "contributed": 50,
+  "commits": 1308,
+  "contributed": 51,
   "followers": 2,
-  "loc_add": 54465629,
-  "loc_del": 5210475,
-  "repos": 45,
+  "loc_add": 54505295,
+  "loc_del": 5211752,
+  "repos": 46,
   "stars": 5
  }
 }
